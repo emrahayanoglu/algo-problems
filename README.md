@@ -1,2 +1,3 @@
-# algo-problems
-Some Algorithm Problems and Solutions
+# Algorithm and Data Structures Problems from Various Sources
+
+Problems
