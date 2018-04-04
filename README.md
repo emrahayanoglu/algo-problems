@@ -7,3 +7,4 @@ Problems:
 * Simple Stupid Binary Search (https://github.com/emrahayanoglu/algo-problems/blob/master/cpp_algo/binary_search.cpp)
 * Search Insert Position (https://github.com/emrahayanoglu/algo-problems/blob/master/cpp_algo/search_insert_position.cpp)
 * Min Stack (https://github.com/emrahayanoglu/algo-problems/blob/master/cpp_algo/min_stack.cpp)
+* Search in a 2d Array (https://github.com/emrahayanoglu/algo-problems/blob/master/cpp_algo/search_in_2d_array.cpp)
