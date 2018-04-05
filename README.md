@@ -16,3 +16,4 @@ Problems:
 * First Bad Version (https://github.com/emrahayanoglu/algo-problems/blob/master/cpp_algo/first_bad_version.cpp)
 * Search Insert Position (https://github.com/emrahayanoglu/algo-problems/blob/master/cpp_algo/search_insert_position.cpp)
 * Find Duplicate (https://github.com/emrahayanoglu/algo-problems/blob/master/cpp_algo/find_duplicate.cpp)
+* Find Peak Element (https://github.com/emrahayanoglu/algo-problems/blob/master/cpp_algo/find_peak_element.cpp)
