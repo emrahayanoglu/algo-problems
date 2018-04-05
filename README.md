@@ -13,3 +13,4 @@ Problems:
 * Search in a Rotated Sorted Array II (https://github.com/emrahayanoglu/algo-problems/blob/master/cpp_algo/search_in_rotated_sorted_array_ii.cpp)
 * Find Min in a Rotated Sorted Array (https://github.com/emrahayanoglu/algo-problems/blob/master/cpp_algo/find_min_rotated_sorted_array.cpp)
 * Find Min in a Rotated Sorted Array II (https://github.com/emrahayanoglu/algo-problems/blob/master/cpp_algo/find_min_rotated_sorted_array_ii.cpp)
+* First Bad Version (https://github.com/emrahayanoglu/algo-problems/blob/master/cpp_algo/first_bad_version.cpp)
